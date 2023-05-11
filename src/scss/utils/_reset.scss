@@ -1,0 +1,54 @@
+*,
+*::before,
+*::after {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+:root {
+	height: 100%;
+	font-size: 62.5%;
+}
+html,
+body {
+	height: 100%;
+}
+body {
+	min-height: 100%;
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	line-height: 1.2;
+	color: #000;
+}
+a,
+a:visited {
+	text-decoration: none;
+	color: inherit;
+}
+button:hover,
+a:hover {
+	cursor: pointer;
+}
+input,
+button,
+textarea {
+	font-family: "Montserrat", sans-serif;
+}
+ul,
+ol,
+li {
+	list-style: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: middle;
+}
