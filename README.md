@@ -1,4 +1,4 @@
-[Превью](https://evgiss.github.io/form-test/)
+[Превью](https://evgiss.github.io/form/)
 
 ## Функционал
 
